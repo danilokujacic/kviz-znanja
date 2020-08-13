@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kviz-znanja/static/css/main.662334f9.chunk.css",
-    "main.js": "/kviz-znanja/static/js/main.4acb4922.chunk.js",
-    "main.js.map": "/kviz-znanja/static/js/main.4acb4922.chunk.js.map",
+    "main.js": "/kviz-znanja/static/js/main.f8b5f070.chunk.js",
+    "main.js.map": "/kviz-znanja/static/js/main.f8b5f070.chunk.js.map",
     "runtime-main.js": "/kviz-znanja/static/js/runtime-main.dbc16757.js",
     "runtime-main.js.map": "/kviz-znanja/static/js/runtime-main.dbc16757.js.map",
     "static/js/2.6131203b.chunk.js": "/kviz-znanja/static/js/2.6131203b.chunk.js",
     "static/js/2.6131203b.chunk.js.map": "/kviz-znanja/static/js/2.6131203b.chunk.js.map",
     "index.html": "/kviz-znanja/index.html",
-    "precache-manifest.0681069ec4a9b2d4a8831d53d23052c2.js": "/kviz-znanja/precache-manifest.0681069ec4a9b2d4a8831d53d23052c2.js",
+    "precache-manifest.fcfd7002528cdd41573f9a063f285abe.js": "/kviz-znanja/precache-manifest.fcfd7002528cdd41573f9a063f285abe.js",
     "service-worker.js": "/kviz-znanja/service-worker.js",
     "static/css/main.662334f9.chunk.css.map": "/kviz-znanja/static/css/main.662334f9.chunk.css.map",
     "static/js/2.6131203b.chunk.js.LICENSE.txt": "/kviz-znanja/static/js/2.6131203b.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.dbc16757.js",
     "static/js/2.6131203b.chunk.js",
     "static/css/main.662334f9.chunk.css",
-    "static/js/main.4acb4922.chunk.js"
+    "static/js/main.f8b5f070.chunk.js"
   ]
 }

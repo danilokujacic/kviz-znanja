@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "386f652f40d89ff14bf19e0cb5055872",
+    "revision": "d1c13ed64957ab0ad3cf5203d7fc1a25",
     "url": "/kviz-znanja/index.html"
   },
   {
-    "revision": "283c167a0d0073e6674e",
+    "revision": "2c567a093ff72f684248",
     "url": "/kviz-znanja/static/css/main.662334f9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kviz-znanja/static/js/2.6131203b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "283c167a0d0073e6674e",
-    "url": "/kviz-znanja/static/js/main.4acb4922.chunk.js"
+    "revision": "2c567a093ff72f684248",
+    "url": "/kviz-znanja/static/js/main.f8b5f070.chunk.js"
   },
   {
     "revision": "eb2e83f7768f5c36ef1c",
