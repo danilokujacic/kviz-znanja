@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1c13ed64957ab0ad3cf5203d7fc1a25",
+    "revision": "9093333f042f470cddc1294b7c2ea8b0",
     "url": "/kviz-znanja/index.html"
   },
   {
-    "revision": "2c567a093ff72f684248",
-    "url": "/kviz-znanja/static/css/main.662334f9.chunk.css"
+    "revision": "bd87e4768aede38d53c3",
+    "url": "/kviz-znanja/static/css/main.cf7ec5f8.chunk.css"
   },
   {
-    "revision": "7251fda0bd89226e64e5",
-    "url": "/kviz-znanja/static/js/2.6131203b.chunk.js"
+    "revision": "a835653736616b641dfb",
+    "url": "/kviz-znanja/static/js/2.a98c02b6.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/kviz-znanja/static/js/2.6131203b.chunk.js.LICENSE.txt"
+    "url": "/kviz-znanja/static/js/2.a98c02b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c567a093ff72f684248",
-    "url": "/kviz-znanja/static/js/main.f8b5f070.chunk.js"
+    "revision": "bd87e4768aede38d53c3",
+    "url": "/kviz-znanja/static/js/main.869044c2.chunk.js"
   },
   {
     "revision": "eb2e83f7768f5c36ef1c",
@@ -32,8 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kviz-znanja/static/media/history.5a99e060.jpg"
   },
   {
+    "revision": "aa2750848a08daeee4168d7235543118",
+    "url": "/kviz-znanja/static/media/loading.aa275084.gif"
+  },
+  {
     "revision": "1376d7e46b243500420f933fbf5289d5",
     "url": "/kviz-znanja/static/media/music.1376d7e4.jpg"
+  },
+  {
+    "revision": "616bc31c0ddfb828bab4aa656224d9e8",
+    "url": "/kviz-znanja/static/media/not-found.616bc31c.png"
   },
   {
     "revision": "8c6b6452da57d18dd77f03f5e1fab1fc",

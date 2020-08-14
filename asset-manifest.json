@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/kviz-znanja/static/css/main.662334f9.chunk.css",
-    "main.js": "/kviz-znanja/static/js/main.f8b5f070.chunk.js",
-    "main.js.map": "/kviz-znanja/static/js/main.f8b5f070.chunk.js.map",
+    "main.css": "/kviz-znanja/static/css/main.cf7ec5f8.chunk.css",
+    "main.js": "/kviz-znanja/static/js/main.869044c2.chunk.js",
+    "main.js.map": "/kviz-znanja/static/js/main.869044c2.chunk.js.map",
     "runtime-main.js": "/kviz-znanja/static/js/runtime-main.dbc16757.js",
     "runtime-main.js.map": "/kviz-znanja/static/js/runtime-main.dbc16757.js.map",
-    "static/js/2.6131203b.chunk.js": "/kviz-znanja/static/js/2.6131203b.chunk.js",
-    "static/js/2.6131203b.chunk.js.map": "/kviz-znanja/static/js/2.6131203b.chunk.js.map",
+    "static/js/2.a98c02b6.chunk.js": "/kviz-znanja/static/js/2.a98c02b6.chunk.js",
+    "static/js/2.a98c02b6.chunk.js.map": "/kviz-znanja/static/js/2.a98c02b6.chunk.js.map",
     "index.html": "/kviz-znanja/index.html",
-    "precache-manifest.fcfd7002528cdd41573f9a063f285abe.js": "/kviz-znanja/precache-manifest.fcfd7002528cdd41573f9a063f285abe.js",
+    "precache-manifest.42c91bd963e12f2daa0b0f3f3b6b4780.js": "/kviz-znanja/precache-manifest.42c91bd963e12f2daa0b0f3f3b6b4780.js",
     "service-worker.js": "/kviz-znanja/service-worker.js",
-    "static/css/main.662334f9.chunk.css.map": "/kviz-znanja/static/css/main.662334f9.chunk.css.map",
-    "static/js/2.6131203b.chunk.js.LICENSE.txt": "/kviz-znanja/static/js/2.6131203b.chunk.js.LICENSE.txt",
+    "static/css/main.cf7ec5f8.chunk.css.map": "/kviz-znanja/static/css/main.cf7ec5f8.chunk.css.map",
+    "static/js/2.a98c02b6.chunk.js.LICENSE.txt": "/kviz-znanja/static/js/2.a98c02b6.chunk.js.LICENSE.txt",
     "static/media/geography.png": "/kviz-znanja/static/media/geography.3e78c53f.png",
     "static/media/history.jpg": "/kviz-znanja/static/media/history.5a99e060.jpg",
+    "static/media/loading.gif": "/kviz-znanja/static/media/loading.aa275084.gif",
     "static/media/music.jpg": "/kviz-znanja/static/media/music.1376d7e4.jpg",
+    "static/media/not-found.png": "/kviz-znanja/static/media/not-found.616bc31c.png",
     "static/media/social.png": "/kviz-znanja/static/media/social.8c6b6452.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dbc16757.js",
-    "static/js/2.6131203b.chunk.js",
-    "static/css/main.662334f9.chunk.css",
-    "static/js/main.f8b5f070.chunk.js"
+    "static/js/2.a98c02b6.chunk.js",
+    "static/css/main.cf7ec5f8.chunk.css",
+    "static/js/main.869044c2.chunk.js"
   ]
 }
